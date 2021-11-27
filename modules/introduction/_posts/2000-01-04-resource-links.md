@@ -1,3 +1,0 @@
----
-Title: Resource links
----
