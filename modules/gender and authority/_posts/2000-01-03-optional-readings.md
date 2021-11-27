@@ -1,3 +1,0 @@
----
-Title: Optional readings
----
