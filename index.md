@@ -21,15 +21,16 @@ Here are some examples of Course-in-a-Box in the wild:
 
 <br> 
 
-#### Need some help?
+#### Find your cataloging community
 Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
 
 You can also hire P2PU to provide support with learning design, technical setup, course customizations, or web hosting. If you’re interested in collaborating on a project, reach out to us at thepeople@p2pu.org
 
 <br> 
 
-#### About Course-in-a-Box
+#### About the course creator
 
-P2PU created Course-in-a-Box in 2014 as a free and lightweight tool for building online courses. We wanted to preserve the modular structure of MOOCs outside of the bulky (and often proprietary) environment of learning/content management systems. Course-in-a-Box is open-source, and we welcome contributions [on our Github repo](https://github.com/p2pu/course-in-a-box).
+Heidy Berthoud is Head of Resource Description at the Smithsonian Libraries and Archives in Washington, D.C. Her first library job was at the University of Chicago's Regenstein Library, where she started as a student claimer in the Serial Orders Department. She has over a decade of experience in cataloging and technical services, and has previously held positions in acquisitions, serials, electronic resources, government documents, collection development, and research services. 
 
-p.s. Designing a course for learning circles? [Check out the Learning Circle Course Creation guide](https://docs.google.com/document/u/1/d/116fJM3GS7XDzilUOL_ynMZ0yTncUD6aVUbcQKsTra6U/edit#heading=h.l36tzg40xcgr) for some best practices on course design.
+Heidy is passionate about mentoring the next generation of catalogers! If you are a current student looking for a cataloging internship or practicum experience, please contact berthoudh@si.edu to see if there are opportunities for you at the Smithsonian.
+
