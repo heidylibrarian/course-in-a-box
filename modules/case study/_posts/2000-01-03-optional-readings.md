@@ -1,7 +1,7 @@
 ---
 Title: Optional readings
 ---
-
+The following readings are **optional**, but useful. Choose additional articles from the list below if you have time. 
 
 ### Optional reading list
 
