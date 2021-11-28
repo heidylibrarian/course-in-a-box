@@ -15,4 +15,6 @@ Erikson, P. (2008). Decolonizing the “Nation’s Attic”: The National Museum
 
 Hudson, D. (2017). The Whiteness of Practicality. In G. Schlesselman-Tarango (Ed.), *Topographies of Whiteness: Mapping Whiteness in Library and Information* (pp. 203-234). Sacramento: Library Juice Press. 
 
+McGreevy, N. (2021, November 10). Why the Smithsonian's Museum of African Art Removed its Benin Bronzes from View. *Smithsonian Magazine*. <https://www.smithsonianmag.com/smart-news/national-museum-of-african-art-removes-benin-bronzes-from-display-affirms-commitment-to-repatriation-180979037/> 
+
 Wintle, C. (2016). Decolonizing the Smithsonian: Museums as Microcosms of Political Encounters. *American Historical Review*, 1492-1520. <https://doi.org/10.1093/ahr/121.5.1492> 
