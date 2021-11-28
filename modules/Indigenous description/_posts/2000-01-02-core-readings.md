@@ -1,7 +1,7 @@
 ---
 Title: Core readings
 ---
-Please complete the following readings about **Indigenous description** and **Indigenous classification**.
+Please complete the following readings introducing **Indigenous ontologies** and ways of knowing.
 
 ### Core reading list
 
