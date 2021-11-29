@@ -5,7 +5,7 @@ published: true
 
 **Bias in Library of Congress Subject Headings** started as an eight-week summer internship at the Smithsonian Libraries and Archives (SLA) in 2021. This set of resources was created and compiled as a mini-cataloging course that would accompany the intern's hands-on experience as part of SLA's Subject Headings Project Team. The course is designed primarily for current MLS students who want to augment their cataloging knowledge.   
 
-There are seven modules that make up the course, all linked in the nav bar at the top of the page:
+There are seven modules that make up the course, all linked in the navigation bar at the top of the page:
 * **[LCSH & SACO](/modules/lcsh%20&%20saco/overview/)**: Introduction to Library of Congress Subject Headings (LCSH) and the Subject Authority Cooperative Program (SACO)
 * **[Current conversations](/modules/current%20conversations/overview/)**: What are catalogers talking and writing about now
 * **[Ethics](/modules/ethics/overview/)**: Review of cataloging ethics and cataloging bias
