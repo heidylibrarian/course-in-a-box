@@ -11,4 +11,4 @@ Hanson, C. (2021). Words Matter: Examining the Language Used to Describe Mental 
 
 Knowlton, S. (2005). Three Decades Since Prejudices and Antipathies: A Study of Changes in the Library of Congress Subject Headings. *Cataloging & Classification Quarterly, 40*(2), 123-145. <https://doi.org/10.1300/J104v40n02_08>
 
-Snow, K. & Shoemaker, B. (2020). Defining Cataloging Ethics: Practitioner Perspectives. *Cataloging & classification quarterly, 58*(6), 533-546. <https://doi.org/10.1080/01639374.2020.1795767> 
+
