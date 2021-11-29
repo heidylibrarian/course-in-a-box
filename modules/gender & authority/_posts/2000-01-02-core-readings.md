@@ -1,9 +1,9 @@
 ---
 Title: Core readings
 ---
-Please complete the following readings on questions of **gender and authority**.
+### Core readings
 
-### Core reading list
+Please complete the following readings on questions of **gender and authority**.
 
 Program for Cooperative Cataloging Task Group on Name Authority Records (2016). Report of the PCC Ad Hoc Task Group on Gender in Name Authority Records. <https://www.loc.gov/aba/pcc/documents/Gender_375%20field_RecommendationReport.pdf> 
 
