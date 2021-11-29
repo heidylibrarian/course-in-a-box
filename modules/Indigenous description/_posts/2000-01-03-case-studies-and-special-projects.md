@@ -1,9 +1,9 @@
 ---
 Title: Case studies & special projects
 ---
-The following articles and chapters are all written about case studies and special projects on **Indigenous description** or **Indigenous classification**. Please choose **two** to read.
+### Case studies & special projects
 
-### Case studies & special projects reading list
+The following articles and chapters are all written about case studies and special projects on **Indigenous description** or **Indigenous classification**. Please choose **two** to read.
 
 Bone, C. & Lougheed, B. (2018). Library of Congress Subject Headings related to Indigenous Peoples: Changing LCSH for use in a Canadian Archival Context. *Cataloging & Classification Quarterly, 56*(1), 83-95. <https://doi.org/10.1080/01639374.2017.1382641>
 
