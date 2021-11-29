@@ -1,9 +1,9 @@
 ---
 Title: Optional readings
 ---
-The following readings are **optional**, but useful. Choose additional articles from the list below if you have time.
+### Optional readings
 
-### Optional reading list
+The following readings are **optional**, but useful. Choose additional articles from the list below if you have time.
 
 Anderson, J. & Christen, K. (2019). Decolonizing Attribution: Traditions of Exclusion. *Journal of Radical Librarianship, 5*, 113-152. <https://journal.radicallibrarianship.org/index.php/journal/article/view/38> 
 
