@@ -1,9 +1,9 @@
 ---
 Title: Optional readings
 ---
-The following readings are **optional**, but useful. Choose additional articles from the list below if you have time. 
+### Optional readings
 
-### Optional reading list
+The following readings are **optional**, but useful. Choose additional articles from the list below if you have time. 
 
 Cohen, A. (2019). Free to Be...Only He or She: Overcoming Obstacles to Accurately Recording Gender Identity in a Highly-Gendered Language. In J. Sandberg (Ed.), *Ethical Questions in Name Authority Control* (pp. 133-154). Sacramento: Library Juice Press. 
 
