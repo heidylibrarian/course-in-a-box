@@ -1,3 +1,0 @@
----
-Title: Community cataloging space
----
