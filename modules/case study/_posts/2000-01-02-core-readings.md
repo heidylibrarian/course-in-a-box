@@ -1,9 +1,9 @@
 ---
 Title: Core readings
 ---
-Please complete the following readings related to our **case study** on **undocumented immigrants** and representation in LCSH. It is best to complete these readings in chronological order to understand how the debate has developed and changed over time.
+### Core readings
 
-### Core reading list 
+Please complete the following readings related to our **case study** on **undocumented immigrants** and representation in LCSH. It is best to complete these readings in chronological order to understand how the debate has developed and changed over time. 
 
 Library of Congress. (2016, March 22). Library of Congress to Cancel the Subject Heading “Illegal aliens.” <https://www.loc.gov/catdir/cpso/illegal-aliens-decision.pdf> 
 
