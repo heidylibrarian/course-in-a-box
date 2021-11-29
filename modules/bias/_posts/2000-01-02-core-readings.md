@@ -3,7 +3,7 @@ Title: Core readings
 ---
 ### Core readings
 
-Please complete the following readings on cataloging **ethics** and cataloging **bias**.
+Please complete the following readings on cataloging **bias**.
 
 Adler, M. (2017). Classification Along the Color Line: Excavating Racism in the Stacks. *Journal of Critical Library and Information Studies 1*(1), 1-25. <https://doi.org/10.24242/jclis.v1i1.17> 
 
