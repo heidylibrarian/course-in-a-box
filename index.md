@@ -3,28 +3,23 @@ layout: index
 published: true
 ---
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+**Bias in Library of Congress Subject Headings** started as an eight-week summer internship at the Smithsonian Libraries and Archives (SLA) in 2021. This set of resources was created and compiled as a mini-cataloging course that would accompany the intern's hands-on experience as part of SLA's Subject Headings Project Team. The course is designed primarily for current MLS students who want to augment their cataloging knowledge.   
 
-<br> 
-
-#### Course-in-a-Box Courses We Love ❤️
-Here are some examples of Course-in-a-Box in the wild:
-
-* [Making and Learning](http://p2pu.github.io/makingandlearning/) by Children’s Museum of Pittsburgh
-* [Designing for Documentation and Assessment](https://playfulmit.github.io/beyond-rubrics/) by MIT Playful Journey Lab
-* [ExplOERer Course](http://www.exploerercourse.org/en/) by Gothenburg University, Open University, and CC Poland
-* [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/) by P2PU
-* [Queer Cinema for High School](https://queercinema.net/) by Sarah Schrag
+There are seven modules that make up the course, all linked in the nav bar at the top of the page:
+* **[LCSH & SACO](/modules/lcsh%20&%20saco/overview/)**: Introduction to Library of Congress Subject Headings (LCSH) and the Subject Authority Cooperative Program (SACO)
+* **[Current conversations](/modules/current%20conversations/overview/)**: What are catalogers talking and writing about now
+* **[Ethics](/modules/ethics/overview/)**: Review of cataloging ethics and cataloging bias
+* **[Case study](modules/case%20study/overview/)**: A look at the struggle to change harmful language in headings describing undocumented immigrants
+* **[Decolonization](modules/decolonization/overview/)**: What does decolonization mean for the library and the museum
+* **[Indigenous description](modules/indigenous%20description/overview/)**: The importance of Indigenous description, classification, and ways of knowing
+* **[Gender & authority](modules/gender%20&%20authority/overview/)**: How do catalogers record and describe gender
 
 <br> 
 
 #### Find your cataloging community
-Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
+Follow #critlib (critical librarianship) and #critcat (critical cataloging) on Twitter. You can also check out the [critcat website](http://critlib.org/critcat/) created and mainted by Treshani Perera and Violet Fox.
 
-You can also hire P2PU to provide support with learning design, technical setup, course customizations, or web hosting. If you’re interested in collaborating on a project, reach out to us at thepeople@p2pu.org
+[Critcatenate](https://cataloginglab.org/category/critcatenate/) blogs posts created by Violet Fox are another great way to stay up-to-date with #critcat related conversations, publications, presentations, and projects.
 
 <br> 
 
@@ -32,5 +27,5 @@ You can also hire P2PU to provide support with learning design, technical setup,
 
 Heidy Berthoud is Head of Resource Description at the Smithsonian Libraries and Archives in Washington, D.C. Her first library job was at the University of Chicago's Regenstein Library, where she started as a student claimer in the Serial Orders Department. She has over a decade of experience in cataloging and technical services, and has previously held positions in acquisitions, serials, electronic resources, government documents, collection development, and research services. 
 
-Heidy is passionate about mentoring the next generation of catalogers! If you are a current student looking for a cataloging internship or practicum experience, please contact berthoudh@si.edu to see if there are opportunities for you at the Smithsonian.
+Heidy is passionate about mentoring the next generation of catalogers! If you are a current student looking for a cataloging internship or practicum experience, please contact <berthoudh@si.edu> to see if there are opportunities for you at the Smithsonian.
 
