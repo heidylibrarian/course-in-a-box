@@ -6,13 +6,13 @@ published: true
 **Bias in Library of Congress Subject Headings** started as an eight-week summer internship at the Smithsonian Libraries and Archives (SLA) in 2021. This set of resources was created and compiled as a mini-cataloging course that would accompany the intern's hands-on experience as part of SLA's Subject Headings Project Team. The course is designed primarily for current MLS students who want to augment their cataloging knowledge.   
 
 There are seven modules that make up the course, all linked in the navigation bar at the top of the page:
-* **[LCSH & SACO](/modules/lcsh%20&%20saco/overview/)**: Introduction to Library of Congress Subject Headings (LCSH) and the Subject Authority Cooperative Program (SACO)
-* **[Ethics](/modules/ethics/overview/)**: How do catalogers approach ethics and what are the current conversations in cataloging
-* **[Bias](/modules/bias/overview/)**: How does bias creeps into cataloging work
-* **[Case study](modules/case%20study/overview/)**: Overview of the struggle to change harmful language in headings describing undocumented immigrants
-* **[Decolonization](modules/decolonization/overview/)**: What does decolonization mean for the library and the museum
-* **[Indigenous description](modules/indigenous%20description/overview/)**: The importance of Indigenous description, classification, and ways of knowing
-* **[Gender & authority](modules/gender%20&%20authority/overview/)**: How do catalogers record and describe gender
+* **[LCSH & SACO](/modules/lcsh%20&%20saco/overview/)**: Introduction to **Library of Congress Subject Headings (LCSH)** and the **Subject Authority Cooperative Program (SACO)**
+* **[Ethics](/modules/ethics/overview/)**: How do catalogers approach **ethical concerns** and what are the current conversations in cataloging
+* **[Bias](/modules/bias/overview/)**: How does **bias** creep into cataloging work
+* **[Case study](modules/case%20study/overview/)**: Overview of the struggle to change harmful language in headings describing **undocumented immigrants**
+* **[Decolonization](modules/decolonization/overview/)**: What does **decolonization** mean for the library and the museum
+* **[Indigenous description](modules/indigenous%20description/overview/)**: The importance of **Indigenous description, classification, and ways of knowing**
+* **[Gender & authority](modules/gender%20&%20authority/overview/)**: How do catalogers record and describe **gender**
 
 <br> 
 
