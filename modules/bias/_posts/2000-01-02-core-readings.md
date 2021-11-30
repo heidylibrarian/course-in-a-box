@@ -11,4 +11,4 @@ Drabinski, E. (2013). Queering the Catalog: Queer Theory and the Politics of Cor
 
 Ganin, N. (2015, October 10). White Privilege is not in the Library of Congress Subject Headings. *I never metadata I didn’t like.* <https://inevermetadataididntlike.wordpress.com/2015/10/10/white-privilege-is-not-in-the-library-of-congress-subject-headings/>
 
-Olson, H. (2001). The Power to Name: Representation in Library Catalogs. *Signs, 26*(3), 639-668. <https://www.jstor.org/stable/3175535>
+
